@@ -17,3 +17,5 @@ twitter = "https://twitter.com/makineacom"
 facebook = "https://facebook.com/makinea.makinea.3"
 instagram = "https://instragram.com/makinea4102"
 googleplus = "https://plus.google.com/113909664279245334016"
+
+custom_css = ["css/form.css"]
