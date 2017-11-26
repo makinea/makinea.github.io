@@ -1,24 +1,18 @@
-baseurl = "/"
-languageCode = "en-us"
-title = "Nix Theme"
-theme = "hugo-theme-nix"
+baseurl = "./"
+languageCode = "es-ES"
+title = "MAKINEA"
+canonifyurls = true
+paginate = 3
+
+theme = "hugo-theme-lean-launch-page"
+
+googleAnalytics = "UA-110194713-1"
 
 [params]
-  GithubID = "your_github"
-  TwitterID = "your_twitter"
-  LinkedInID = "your_linkedin"
-  GoogleplusID = "your_googleplus"
-  FacebookID = "your_facebook"
-  Name = "your_name"
-  HeaderUsername = "username"
-  HeaderHostname = "hostname"
-  Email = "your_email"
-  About = "info_about_you"
-  ProfilePicture = "https://pbs.twimg.com/profile_images/485564678039302144/Fjxv6IbQ.png"
-  GoogleAnalytics = "your_google_analytics_id"
+tagline = "Plataforma digital de economía colaborativa en la que propietarios y usuarios de maquinaria agrícola realizan sus transacciones de alquiler de equipos rompiendo las barreras geográficas y resolviendo con un clic todos los aspectos administrativos: seguros, transporte, revisión de equipos, cobros, pagos y valoración de usuarios."
+mailchimpURL = "//makinea.us17.list-manage.com/subscribe/post?u=e28258a76832fbe8708de5c9e&amp;id=1b9602c214"
 
-[menu]
-  [[menu.header]]
-    name = "posts"
-    weight = 0
-    url = "/post"
+twitter = "https://twitter.com/makineacom"
+facebook = "https://facebook.com/makinea.makinea.3"
+instagram = "https://instragram.com/makinea4102"
+googleplus = "https://plus.google.com/113909664279245334016"
