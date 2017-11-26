@@ -11,6 +11,7 @@ googleAnalytics = "UA-110194713-1"
 [params]
 tagline = "Plataforma digital de economía colaborativa en la que propietarios y usuarios de maquinaria agrícola realizan sus transacciones de alquiler de equipos rompiendo las barreras geográficas y resolviendo con un clic todos los aspectos administrativos: seguros, transporte, revisión de equipos, cobros, pagos y valoración de usuarios."
 mailchimpurl = "//makinea.us17.list-manage.com/subscribe/post?u=e28258a76832fbe8708de5c9e&amp;id=1b9602c214"
+mailchimpURL = "//makinea.us17.list-manage.com/subscribe/post?u=e28258a76832fbe8708de5c9e&amp;id=1b9602c214"
 
 twitter = "https://twitter.com/makineacom"
 facebook = "https://facebook.com/makinea.makinea.3"
